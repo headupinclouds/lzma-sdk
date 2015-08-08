@@ -12,7 +12,7 @@ endif()
 include(sugar_files)
 include(sugar_include)
 
-sugar_include(Util)
+#sugar_include(Util)
 
 sugar_files(
     LZMA_SOURCE
